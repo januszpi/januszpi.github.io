@@ -1,0 +1,34 @@
+html {
+    font-size: 10px; /* px oznacz 'piksele': bazowy rozmiar tekstu to teraz 10 pikseli wysokości  */
+    font-family: placeholder; /* tu powinnien być font-family wygenerowany w Google fonts */
+  }
+  h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  p, li {
+    font-size: 26px;
+    line-height: 3;
+    letter-spacing: 1px;
+  }
+  html {
+    background-color: #007f9f;
+  }
+  body {
+    width: 800px;
+    margin: 10px auto;
+    background-color: #00fff2;
+    padding: 20px 20px 20px 20px;
+    border: 5px solid black;
+  }
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 2px 2px 1px black;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
